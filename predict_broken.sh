@@ -1,0 +1,1 @@
+mlflow models predict -m broken_model -i data.json -t json

@@ -1,0 +1,1 @@
+mlflow models predict -m xgbmodel -i data.json -t json
